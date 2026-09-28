@@ -1,0 +1,4 @@
+backup
+configuracoes
+laboratorios
+logs

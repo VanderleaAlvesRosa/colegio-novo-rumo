@@ -1,0 +1,8 @@
+ana;Professora;Ativo
+bruno;Aluno;Ativo
+carla;Aluna;Ativo
+diego;Aluno;Bloqueado
+elisa;Administrativo;Ativo
+fabio;Professor;Ativo
+gabi;Aluna;Bloqueado
+hugo;TI;Ativo

@@ -1,0 +1,10 @@
+101;Aberto;Computador nao liga;Laboratorio_A
+102;Fechado;Sem internet;Secretaria
+103;Aberto;Mouse com defeito;Laboratorio_B
+104;Em atendimento;Impressora travada;Administrativo
+105;Aberto;Sem internet;Laboratorio_A
+106;Fechado;Teclado com defeito;Laboratorio_B
+107;Aberto;Monitor sem imagem;Laboratorio_A
+108;Em atendimento;Sistema lento;Secretaria
+109;Aberto;Cabo de rede desconectado;Laboratorio_B
+110;Fechado;Atualizacao concluida;Administrativo

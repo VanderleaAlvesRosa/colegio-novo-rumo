@@ -1,0 +1,8 @@
+PC-01;Laboratorio_A;Ativo
+PC-02;Laboratorio_A;Manutencao
+PC-03;Laboratorio_A;Ativo
+PC-04;Laboratorio_B;Ativo
+PC-05;Laboratorio_B;Manutencao
+PC-06;Secretaria;Ativo
+IMP-01;Administrativo;Ativo
+IMP-02;Secretaria;Manutencao
