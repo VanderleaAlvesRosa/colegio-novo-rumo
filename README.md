@@ -137,3 +137,9 @@ O projeto será atualizado conforme novos conhecimentos de Linux, Shell Script, 
  
 Este projeto faz parte do meu processo de formação em Ciência da Computação e tem como objetivo demonstrar minha evolução prática em Linux e ferramentas utilizadas na área de Tecnologia da Informação.
 
+## Próximos passos
+
+- Continuar os estudos de Linux.
+- Aprofundar os conhecimentos em Git e GitHub.
+- Iniciar os estudos de Shell Script.
+
